@@ -17,3 +17,7 @@
 ## Share button
 
 Code generated using [Facebook API](https://developers.facebook.com/docs/plugins/share-button/).
+
+## Extension Icon
+
+Obtained from [ru](https://reeve.uwosh.edu/facebookShare_icon.png).
