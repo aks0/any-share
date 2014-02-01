@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "any-share",
+  "description": "Share anything on Facebook!",
+  "version": "1.0",
+
+  "permissions": [
+    "tabs",
+    "http://*.facebook.com/*"
+  ],
+
+  "browser_action": {
+    "default_icon": "fbshare.png",
+    "default_popup": "popup.html"
+  }
+}
